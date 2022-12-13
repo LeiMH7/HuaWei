@@ -6,4 +6,6 @@ code for HuaWei
 举例： NumberOne文件夹里的Lei.c 就表示我第一题用c写的。
 如果你做的这一题没有人做到，你就负责新建NumberXXX文件夹
 
+题库链接：https://www.nowcoder.com/exam/oj/ta?tpId=37
+
 大家加油
