@@ -8,4 +8,4 @@ code for HuaWei
 
 题库链接：https://www.nowcoder.com/exam/oj/ta?tpId=37
 
-大家加油,大厂向我们招手！
+大家加油,大厂向我们招手！冲！
