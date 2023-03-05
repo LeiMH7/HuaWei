@@ -15,7 +15,7 @@ int main()
         cont = cont +1;
         k=k-1;
     }
-    printf("%d ",cont);
+    printf("%d  ",cont);
 
     return 0;
 }
