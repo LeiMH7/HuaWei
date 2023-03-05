@@ -10,7 +10,7 @@ int main()
     int k = strlen(str)-2; //不完美
     
     
-    while(str[k] != ' ')
+    while(str[k] != ' '&&k>=0)
     {
         cont = cont +1;
         k=k-1;
